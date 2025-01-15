@@ -1,0 +1,30 @@
+baseURL = 'http://raidersdmr.com/'
+languageCode = 'en-us'
+title = 'Raiding Party.'
+theme = 'hello-friend-ng'
+paginate = 10
+
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[params]
+  homeSubtitle = "https://discord.gg/AWsAVtVJ"
+  enableThemeToggle = true
+
+[params.author]
+  name = "Chris en Distelle"
+
+[params.logo]
+  logoMark = "."
+  logoText = "[RAIDU]"
+  logoHomeLink = "/"
+  logoCursorColor = "#d20023"
+
+
+[params.portrait]
+  path = "https://files.milkshakes.cloud/wl/?id=uF2ot4zxLAR0t7EoMMQW4HYQwPABSnRc&fmode=download"
+  alt = "Raiders Logo"
+  maxWidth = "300px"
